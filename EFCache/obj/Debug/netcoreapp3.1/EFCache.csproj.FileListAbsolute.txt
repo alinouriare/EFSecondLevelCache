@@ -1,0 +1,8 @@
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\bin\Debug\netcoreapp3.1\EFCache.deps.json
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\bin\Debug\netcoreapp3.1\EFCache.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\obj\Debug\netcoreapp3.1\EFCache.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\obj\Debug\netcoreapp3.1\EFCache.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\obj\Debug\netcoreapp3.1\EFCache.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\bin\Debug\netcoreapp3.1\EFCache.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\obj\Debug\netcoreapp3.1\EFCache.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EFSecondLevelCache\EFCache\obj\Debug\netcoreapp3.1\EFCache.pdb
